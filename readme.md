@@ -13,3 +13,6 @@ Problem6 is finished using tensorflow.
 This part need to train a simple neural network using ReLu function.
 
 Finished
+
+###Task3 regularization
+This part need to finish L2 and drop regularization
