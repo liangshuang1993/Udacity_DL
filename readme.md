@@ -17,5 +17,5 @@ Finished
 ###Task3 regularization
 This part need to finish L2 and drop regularization, and then build a multi-layer network.
 
-I have built a network with 2 hidden layers. The accury on test data is 95%
+I have built a network with 2 hidden layers. The accury on test data is 94.9%
 
