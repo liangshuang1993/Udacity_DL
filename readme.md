@@ -14,8 +14,14 @@ This part need to train a simple neural network using ReLu function.
 
 Finished
 
-###Task3 regularization
+###Task3 regularization###
 This part need to finish L2 and drop regularization, and then build a multi-layer network.
 
 I have built a network with 2 hidden layers. The accury on test data is 95%
+
+###Task4 covolutional neural network###
+This part need to build a multipe layer network with covolutional layer and pool layer
+
+The accuracy is only 93% at most.
+
 
